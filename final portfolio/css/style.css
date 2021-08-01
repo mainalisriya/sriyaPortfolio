@@ -361,6 +361,9 @@ background: #7c34b5;
 .skills .skills-content .right .figma::before{
     width: 70%;
 }
+.skills .skills-content .right .NodeJs::before{
+    width: 30%;
+}
 /* contact section styling */
 .contact .title::after{
     content: "get in touch";
